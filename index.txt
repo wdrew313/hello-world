@@ -1,10 +1,9 @@
 This is the first file in my new git repo.
 
-<<<<<<< HEAD
 THIS IS CHANGED NOW
 
 
 EMERGENCY FIXXXXXXXXXXXXXXXXXXXXx
-=======
-THIS IS CHANGED NOW
->>>>>>> hello-world-images
+
+
+Another lil fixy fix
